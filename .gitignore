@@ -215,5 +215,4 @@ marimo/_lsp/
 __marimo__/
 # Streamlit
 .streamlit/secrets.toml
-# Файл с историей паролей (чтобы не коммитить личные данные)
-history.json
+
